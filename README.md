@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/frkngl/frkngl/blob/main/gojovssukuna.gif)
-<h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
+<h1>Hi 👋, I'm Furkan</h1>
+<h3>A passionate full stack developer from Turkey</h3>
 
 - 🔭 I’m currently working on [C#](https://github.com/frkngl/C-Sharp)
 
