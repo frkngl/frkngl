@@ -1,4 +1,4 @@
-<img style="width:10000px;" src="gojovssukuna.gif">
+<img width="1000" src="gojovssukuna.gif">
 <h1>Hi 👋🏻, I'm Furkan</h1>
 <h3>A passionate full stack developer from Turkey</h3>
 
