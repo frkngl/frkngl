@@ -61,13 +61,13 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
       <h4>📫 Benimle İletişime Geçin</h4>
       <p align="left">
         <a href="https://www.linkedin.com/in/frkngl/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>&nbsp;&nbsp;
         <a href="mailto:furkangul.dev@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+          <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>&nbsp;&nbsp;
         <a href="https://instagram.com/INSTAGRAM_KULLANICI_ADIN" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+          <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
         </a>
       </p>
     </td>
