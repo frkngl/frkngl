@@ -54,16 +54,22 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h4>📊 GitHub İstatistiklerim</h4>
-     <p align="left">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=frkngl&theme=github-dark" alt="Furkan'ın Katkı Grafiği" width="100%" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=frkngl&theme=dark" alt="Furkan'ın Kodlama Serisi" height="150" />
-    </p>
+      <h4>📊 GitHub Kodlama Serim</h4>
+      <p align="left">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=frkngl&theme=dark" alt="Furkan'ın Kodlama Serisi" height="150" />
+      </p>
       <h4>📫 Benimle İletişime Geçin</h4>
-      <ul>
-        <li>💼 <a href="https://www.linkedin.com/in/frkngl/">LinkedIn</a></li>
-        <li>📧 <a href="furkangul.dev@gmail.com">E-posta</a></li>
-      </ul>
+      <p align="left">
+        <a href="https://www.linkedin.com/in/frkngl/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>&nbsp;&nbsp;
+        <a href="mailto:furkangul.dev@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>&nbsp;&nbsp;
+        <a href="https://instagram.com/INSTAGRAM_KULLANICI_ADIN" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+      </p>
     </td>
     <td width="40%" valign="center" align="center">
       <h4>領域展開 (Domain Expansion) 🤞</h4>
