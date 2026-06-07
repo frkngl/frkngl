@@ -1,25 +1,79 @@
-<img width="1000" src="gojovssukuna.gif">
-<h1>Hi 👋🏻, I'm Furkan</h1>
-<h3>A passionate full stack developer from Turkey</h3>
+# Selam! Ben Furkan 🚀
 
-- 🔭 I’m currently working on [C#](https://github.com/frkngl/C-Sharp)
+Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, modern **React** frontend deneyimlerini birleştiren bir **Fullstack Developer**'ım. Tasarımdan canlıya dağıtıma kadar tüm süreçlerde temiz kod, performanslı veritabanı yönetimi ve kullanıcı odaklı çözümler üretmeye odaklanıyorum.
 
-- 🌱 I’m currently learning **C# / JS / REACT**
+---
 
-- 👨‍💻 All of my projects are available at [https://furkangul.dev/](https://furkangul.dev/)
+### 🚀 Nelerle İlgileniyorum?
+* 🏗️ **Kurumsal Backend:** ASP.NET Core ile güvenli, ölçeklenebilir ve performanslı API'lar ile mikroservis mimarileri geliştirmek.
+* ⚛️ **Dinamik Frontend:** React tabanlı, kullanıcı deneyimi yüksek, responsive ve modern tek sayfa uygulamaları (SPA) inşa etmek.
+* 💾 **Veritabanı Yönetimi:** SQL ile optimize edilmiş veri modelleri, ilişkisel veritabanı tasarımları ve performanslı sorgular yazmak.
+* ⚡ **CI/CD & Dağıtım:** Geliştirdiğim projeleri Vercel ve modern bulut araçlarıyla hızlı ve kesintisiz şekilde canlıya taşımak.
 
-- 💬 Ask me about **C# / JS**
+---
 
-- 📫 How to reach me **furkangul.dev@gmail.com**
+### 🛠️ Teknolojiler & Araçlar
 
-- 📄 Know about my experiences [https://anitsuki.com/](https://anitsuki.com/)
+| Alan | Teknolojiler |
+| :--- | :--- |
+| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, SCSS, Tailwind CSS, Bootstrap |
+| **Backend & Veritabanı** | ASP.NET Core, C#, SQL Server / Relational Databases |
+| **Araçlar & Dağıtım** | Git, GitHub, Framer, Vercel |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/frknglww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frknglww" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/furkan-g%C3%BCl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan gül" height="30" width="40" /></a>
-<a href="https://instagram.com/frkngl_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frkngl_00" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <p align="left"> </p>
+### 📂 Öne Çıkan Projelerim
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Anıtsuki (Anime Platformu)</h4>
+      <img src="https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&auto=format&fit=crop&q=60" alt="Anitsuki" padding="10px" style="border-radius: 8px;" />
+      <p>HTML, CSS ve SCSS kullanılarak geliştirilmiş, anime severlere hitap eden modern ve responsive bir web platformu arayüzü.</p>
+      <p>
+        <a href="https://github.com/GITHUB_KULLANICI_ADIN/AnitsukiFE">📁 Repo Linki</a> │ 
+        <a href="https://anitsuki.com">🔗 Canlı Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⛵ Şirketler Yelken Kupası</h4>
+      <img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500&auto=format&fit=crop&q=60" alt="Yelken Kupası" padding="10px" style="border-radius: 8px;" />
+      <p>Kurumsal bir yelken etkinliği için HTML, CSS, Bootstrap ve form entegrasyonları kullanılarak hazırlanan, SEO optimizasyonlu kurumsal web sitesi.</p>
+      <p>
+        <a href="https://github.com/GITHUB_KULLANICI_ADIN/yelken-kupasi">📁 Repo Linki</a> │ 
+        <a href="https://yelkenkupasi.vercel.app">🔗 Canlı Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Durum & İletişim
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h4>📊 GitHub İstatistiklerim</h4>
+      <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=dark" alt="Furkan'ın GitHub İstatistikleri" height="150" /><br><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" height="150" />
+      </p>
+      <h4>📫 Benimle İletişime Geçin</h4>
+      <ul>
+        <li>💼 <a href="LINKEDIN_PROFIL_LINKIN">LinkedIn</a></li>
+        <li>📧 <a href="mailto:EPOSTA_ADRESIN">E-posta</a></li>
+      </ul>
+    </td>
+    <td width="40%" valign="center" align="center">
+      <h4>領域展開 (Domain Expansion) 🤞</h4>
+      <img src="gojovssukuna.gif" alt="Gojo vs Sukuna" style="border-radius: 8px; border: 2px solid #30363d; max-width: 100%;" />
+      <br>
+      <sub><i>"Go beyond!"</i></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+⚡ *Göz sağlığı ve odaklanma için her zaman Dark Mode!*
