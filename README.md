@@ -57,7 +57,7 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
       <h4>📊 GitHub İstatistiklerim</h4>
      <p align="left">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=frkngl&theme=github-dark" alt="Furkan'ın Katkı Grafiği" width="100%" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frkngl&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" height="150" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=frkngl&theme=dark" alt="Furkan'ın Kodlama Serisi" height="150" />
     </p>
       <h4>📫 Benimle İletişime Geçin</h4>
       <ul>
