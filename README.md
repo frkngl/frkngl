@@ -61,13 +61,13 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
       <h4>📫 Benimle İletişime Geçin</h4>
       <p align="left">
         <a href="https://www.linkedin.com/in/frkngl/" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="35" height="35" style="filter: invert(34%) sepia(85%) saturate(1919%) hue-rotate(186deg) brightness(93%) contrast(102%);" />
         </a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="mailto:furkangul.dev@gmail.com">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" width="40" height="40" />
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email" width="35" height="35" style="filter: invert(24%) sepia(91%) saturate(3028%) hue-rotate(349deg) brightness(88%) contrast(92%);" />
         </a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://instagram.com/INSTAGRAM_KULLANICI_ADIN" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram" width="35" height="35" style="filter: invert(35%) sepia(74%) saturate(3859%) hue-rotate(324deg) brightness(96%) contrast(93%);" />
         </a>
       </p>
     </td>
@@ -79,10 +79,6 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
     </td>
   </tr>
 </table>
-
----
-
-⚡ *Göz sağlığı ve odaklanma için her zaman Dark Mode!*
 
 ---
 
