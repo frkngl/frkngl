@@ -51,10 +51,6 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
 
 ### 📊 Durum & İletişim
 
----
-
-### 📊 Durum & İletişim
-
 <table>
   <tr>
     <td width="60%" valign="top">
