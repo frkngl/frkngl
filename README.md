@@ -66,7 +66,7 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
         <a href="mailto:furkangul.dev@gmail.com">
           <img src="gmail.jpg" alt="Email" width="40" height="40" />
         </a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://instagram.com/INSTAGRAM_KULLANICI_ADIN" target="_blank">
+        <a href="https://www.instagram.com/frkngl_00" target="_blank">
           <img src="instagram.jpg" alt="Instagram" width="40" height="40" />
         </a>
       </p>
