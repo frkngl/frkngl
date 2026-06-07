@@ -31,8 +31,8 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
       <img src="https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&auto=format&fit=crop&q=60" alt="Anitsuki" padding="10px" style="border-radius: 8px;" />
       <p>HTML, CSS ve SCSS kullanılarak geliştirilmiş, anime severlere hitap eden modern ve responsive bir web platformu arayüzü.</p>
       <p>
-        <a href="https://github.com/frkngl/AnitsukiFE-v2.0">📁 Repo Linki</a> │ 
-        <a href="https://frkngl.github.io/AnitsukiFE-v2.0/">🔗 Canlı Demo</a>
+        <a href="https://github.com/frkngl/AnitsukiFE-v2.0" target="_blank">📁 Repo Linki</a> │ 
+        <a href="https://frkngl.github.io/AnitsukiFE-v2.0/" target="_blank">🔗 Canlı Demo</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -40,8 +40,8 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
       <img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500&auto=format&fit=crop&q=60" alt="Yelken Kupası" padding="10px" style="border-radius: 8px;" />
       <p>Kurumsal bir yelken etkinliği için HTML, CSS, Bootstrap ve form entegrasyonları kullanılarak hazırlanan, SEO optimizasyonlu kurumsal web sitesi.</p>
       <p>
-        <a href="https://github.com/frkngl/Yelken-Kupasi-Website">📁 Repo Linki</a> │ 
-        <a href="https://www.yelkenkupasi.com/">🔗 Canlı Demo</a>
+        <a href="https://github.com/frkngl/Yelken-Kupasi-Website" target="_blank">📁 Repo Linki</a> │ 
+        <a href="https://www.yelkenkupasi.com/" target="_blank">🔗 Canlı Demo</a>
       </p>
     </td>
   </tr>
