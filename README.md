@@ -65,7 +65,7 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
       <h4>📫 Benimle İletişime Geçin</h4>
       <p align="left">
         <a href="https://www.linkedin.com/in/frkngl/" target="_blank">
-          <img src="https://gierco.github.io/static-badges/badges/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+          <img src="linkedin.jpg" alt="LinkedIn" width="40" height="40" />
         </a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="mailto:furkangul.dev@gmail.com">
           <img src="https://gierco.github.io/static-badges/badges/gmail/gmail-original.svg" alt="Email" width="40" height="40" />
