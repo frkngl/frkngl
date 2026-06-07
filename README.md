@@ -68,10 +68,10 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
           <img src="linkedin.jpg" alt="LinkedIn" width="40" height="40" />
         </a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="mailto:furkangul.dev@gmail.com">
-          <img src="https://gierco.github.io/static-badges/badges/gmail/gmail-original.svg" alt="Email" width="40" height="40" />
+          <img src="gmail.jpg" alt="Email" width="40" height="40" />
         </a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://instagram.com/INSTAGRAM_KULLANICI_ADIN" target="_blank">
-          <img src="https://gierco.github.io/static-badges/badges/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" />
+          <img src="instagram.jpg" alt="Instagram" width="40" height="40" />
         </a>
       </p>
     </td>
