@@ -31,8 +31,8 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
       <img src="https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&auto=format&fit=crop&q=60" alt="Anitsuki" padding="10px" style="border-radius: 8px;" />
       <p>HTML, CSS ve SCSS kullanılarak geliştirilmiş, anime severlere hitap eden modern ve responsive bir web platformu arayüzü.</p>
       <p>
-        <a href="https://github.com/GITHUB_KULLANICI_ADIN/AnitsukiFE">📁 Repo Linki</a> │ 
-        <a href="https://anitsuki.com">🔗 Canlı Demo</a>
+        <a href="https://github.com/frkngl/AnitsukiFE-v2.0">📁 Repo Linki</a> │ 
+        <a href="https://frkngl.github.io/AnitsukiFE-v2.0/">🔗 Canlı Demo</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -40,8 +40,8 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
       <img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500&auto=format&fit=crop&q=60" alt="Yelken Kupası" padding="10px" style="border-radius: 8px;" />
       <p>Kurumsal bir yelken etkinliği için HTML, CSS, Bootstrap ve form entegrasyonları kullanılarak hazırlanan, SEO optimizasyonlu kurumsal web sitesi.</p>
       <p>
-        <a href="https://github.com/GITHUB_KULLANICI_ADIN/yelken-kupasi">📁 Repo Linki</a> │ 
-        <a href="https://yelkenkupasi.vercel.app">🔗 Canlı Demo</a>
+        <a href="https://github.com/frkngl/Yelken-Kupasi-Website">📁 Repo Linki</a> │ 
+        <a href="https://www.yelkenkupasi.com/">🔗 Canlı Demo</a>
       </p>
     </td>
   </tr>
@@ -55,14 +55,14 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
   <tr>
     <td width="60%" valign="top">
       <h4>📊 GitHub İstatistiklerim</h4>
-      <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=dark" alt="Furkan'ın GitHub İstatistikleri" height="150" /><br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" height="150" />
-      </p>
+     <p align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=furkangul&show_icons=true&theme=dark" alt="Furkan'ın GitHub İstatistikleri" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkangul&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" height="150" />
+    </p>
       <h4>📫 Benimle İletişime Geçin</h4>
       <ul>
-        <li>💼 <a href="LINKEDIN_PROFIL_LINKIN">LinkedIn</a></li>
-        <li>📧 <a href="mailto:EPOSTA_ADRESIN">E-posta</a></li>
+        <li>💼 <a href="https://www.linkedin.com/in/frkngl/">LinkedIn</a></li>
+        <li>📧 <a href="furkangul.dev@gmail.com">E-posta</a></li>
       </ul>
     </td>
     <td width="40%" valign="center" align="center">
