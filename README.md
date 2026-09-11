@@ -1,47 +1,47 @@
-# Selam! Ben Furkan 🚀
+# Hi there! I'm Furkan 🚀
 
-Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, modern **React** frontend deneyimlerini birleştiren bir **Fullstack Developer**'ım. Tasarımdan canlıya dağıtıma kadar tüm süreçlerde temiz kod, performanslı veritabanı yönetimi ve kullanıcı odaklı çözümler üretmeye odaklanıyorum.
-
----
-
-### 🚀 Nelerle İlgileniyorum?
-* 🏗️ **Kurumsal Backend:** ASP.NET Core ile güvenli, ölçeklenebilir ve performanslı API'lar ile mikroservis mimarileri geliştirmek.
-* ⚛️ **Dinamik Frontend:** React tabanlı, kullanıcı deneyimi yüksek, responsive ve modern tek sayfa uygulamaları (SPA) inşa etmek.
-* 💾 **Veritabanı Yönetimi:** SQL ile optimize edilmiş veri modelleri, ilişkisel veritabanı tasarımları ve performanslı sorgular yazmak.
-* ⚡ **CI/CD & Dağıtım:** Geliştirdiğim projeleri Vercel ve modern bulut araçlarıyla hızlı ve kesintisiz şekilde canlıya taşımak.
+A **Fullstack Developer** who combines strong, scalable **ASP.NET Core** backend architectures with dynamic, modern **React** frontend experiences. From design to deployment, I focus on producing clean code, high-performance database management, and user-focused solutions across the entire process.
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+### 🚀 What I'm Into
+* 🏗️ **Enterprise Backend:** Building secure, scalable, and high-performance APIs and microservice architectures with ASP.NET Core.
+* ⚛️ **Dynamic Frontend:** Building React-based, highly usable, responsive, and modern single-page applications (SPAs).
+* 💾 **Database Management:** Writing optimized data models, relational database designs, and performant queries with SQL.
+* ⚡ **CI/CD & Deployment:** Shipping the projects I build to production quickly and seamlessly with Vercel and modern cloud tools.
 
-| Alan | Teknolojiler |
+---
+
+### 🛠️ Technologies & Tools
+
+| Area | Technologies |
 | :--- | :--- |
 | **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, SCSS, Tailwind CSS, Bootstrap |
-| **Backend & Veritabanı** | ASP.NET Core, C#, SQL Server / Relational Databases |
-| **Araçlar & Dağıtım** | Git, GitHub, Framer, Vercel |
+| **Backend & Database** | ASP.NET Core, C#, SQL Server / Relational Databases |
+| **Tools & Deployment** | Git, GitHub, Framer, Vercel |
 
 ---
 
-### 📂 Öne Çıkan Projelerim
+### 📂 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Anıtsuki (Anime Platformu)</h4>
+      <h4>🌐 Anitsuki (Anime Platform)</h4>
       <img src="anitsuki.jpg" alt="Anitsuki" padding="10px" style="border-radius: 8px;" />
-      <p>HTML, CSS ve SCSS kullanılarak geliştirilmiş, anime severlere hitap eden modern ve responsive bir web platformu arayüzü.</p>
+      <p>A modern, responsive web platform interface built with HTML, CSS, and SCSS, designed for anime fans.</p>
       <p>
-        <a href="https://github.com/frkngl/AnitsukiFE-v2.0" target="_blank">📁 Repo Linki</a> │ 
-        <a href="https://frkngl.github.io/AnitsukiFE-v2.0/" target="_blank">🔗 Canlı Demo</a>
+        <a href="https://github.com/frkngl/AnitsukiFE-v2.0" target="_blank">📁 Repo Link</a> │ 
+        <a href="https://frkngl.github.io/AnitsukiFE-v2.0/" target="_blank">🔗 Live Demo</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⛵ Şirketler Yelken Kupası</h4>
+      <h4>⛵ Şirketler Yelken Kupası (Corporate Sailing Cup)</h4>
       <img src="yelken-kupasi.jpg" padding="10px" style="border-radius: 8px;" />
-      <p>Kurumsal bir yelken etkinliği için HTML, CSS, Bootstrap ve form entegrasyonları kullanılarak hazırlanan, SEO optimizasyonlu kurumsal web sitesi.</p>
+      <p>An SEO-optimized corporate website built with HTML, CSS, Bootstrap, and form integrations for a corporate sailing event.</p>
       <p>
-        <a href="https://github.com/frkngl/Yelken-Kupasi-Website" target="_blank">📁 Repo Linki</a> │ 
-        <a href="https://www.yelkenkupasi.com/" target="_blank">🔗 Canlı Demo</a>
+        <a href="https://github.com/frkngl/Yelken-Kupasi-Website" target="_blank">📁 Repo Link</a> │ 
+        <a href="https://www.yelkenkupasi.com/" target="_blank">🔗 Live Demo</a>
       </p>
     </td>
   </tr>
@@ -49,16 +49,16 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
 
 ---
 
-### 📊 Durum & İletişim
+### 📊 Stats & Contact
 
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h4>📊 GitHub Kodlama Serim</h4>
+      <h4>📊 My GitHub Coding Streak</h4>
       <p align="left">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=frkngl&theme=dark" alt="Furkan'ın Kodlama Serisi" height="150" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=frkngl&theme=dark" alt="Furkan's Coding Streak" height="150" />
       </p>
-      <h4>📫 Benimle İletişime Geçin</h4>
+      <h4>📫 Get in Touch</h4>
       <p align="left">
         <a href="https://www.linkedin.com/in/frkngl/" target="_blank">
           <img src="linkedin.jpg" alt="LinkedIn" width="40" height="40" />
@@ -82,4 +82,4 @@ Güçlü ve ölçeklenebilir **ASP.NET Core** backend mimarileri ile dinamik, mo
 
 ---
 
-⚡ *Göz sağlığı ve odaklanma için her zaman Dark Mode!*
+⚡ *Always Dark Mode, for eye health and focus!*
